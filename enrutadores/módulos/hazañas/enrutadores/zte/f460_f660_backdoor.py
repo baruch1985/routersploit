@@ -7,7 +7,8 @@ class Exploit(HTTPClient):
     __info__ = {
         "name": "ZTE F460 & F660 Backdoor RCE",
         "description": "Exploits ZTE F460 and F660 backdoor vulnerability that allows "
-                       "executing commands on operating system level.",
+                       "execut
+ing commands on operating system level.",
         "authors": (
             "Rapid7",  # vulnerabilty discovery
             "Marcin Bury <marcin[at]threat9.com>",  # routersploit module
